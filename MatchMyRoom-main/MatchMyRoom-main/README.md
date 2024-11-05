@@ -28,13 +28,13 @@ Warden section to monitor student statuses
 
 The development server should now be running. Open your browser and navigate to http://localhost:3000 to see the application.
 
-Usage
+## Usage
 
 Register/Login: Students need to register or log in to access the system.
 Room Selection: Choose your preferred roommate(s) from the available list.
 Submit Complaints: Use the complaint submission feature to report any issues.
 Warden Monitoring: Wardens can log in to monitor student statuses and manage complaints.
 
-License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.    
