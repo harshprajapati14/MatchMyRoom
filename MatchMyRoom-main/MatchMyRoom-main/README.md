@@ -1,9 +1,9 @@
-#MatchMyRoom
+# MatchMyRoom
 Overview
 
 MatchMyRoom is a hostel room allocation system for IIITG that allows students to choose their roommates and submit complaints. The system includes a user-friendly interface with modern UI design, algorithms for mutual roommate preferences, SSH security measures, and optimized loading times. There is also a separate section for wardens to monitor students' statuses.
 
-#Features
+## Features
 
 User-friendly interface with modern UI design
 
@@ -17,7 +17,7 @@ Complaint submission feature
 
 Warden section to monitor student statuses
     
-#Installation
+## Installation
 
     1.Clone the Repository:- git clone https://github.com/kashisharora9462/MatchMyRoom.git
     cd MatchMyRoom
